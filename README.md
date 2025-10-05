@@ -1,4 +1,4 @@
-# JWT generator API
+# JWT Generator API
 (for testing purposes)
 
 Endpoint `POST \token` responds with JWT including custom claims taken from requests JSON body.
